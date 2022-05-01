@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Volume_Manager", "Volume_Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VolumeManager", "..\VolumeManager\VolumeManager.csproj", "{581D162C-726E-410E-A316-D530A52620F9}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VolumeManager02", "..\VolumeManager02\VolumeManager02.vdproj", "{D1F8ECDC-4C37-4532-9FFD-DB6E625DE06C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,12 @@ Global
 		{581D162C-726E-410E-A316-D530A52620F9}.Release|x64.Build.0 = Release|Any CPU
 		{581D162C-726E-410E-A316-D530A52620F9}.Release|x86.ActiveCfg = Release|Any CPU
 		{581D162C-726E-410E-A316-D530A52620F9}.Release|x86.Build.0 = Release|Any CPU
+		{D1F8ECDC-4C37-4532-9FFD-DB6E625DE06C}.Debug|Any CPU.ActiveCfg = Debug
+		{D1F8ECDC-4C37-4532-9FFD-DB6E625DE06C}.Debug|x64.ActiveCfg = Debug
+		{D1F8ECDC-4C37-4532-9FFD-DB6E625DE06C}.Debug|x86.ActiveCfg = Debug
+		{D1F8ECDC-4C37-4532-9FFD-DB6E625DE06C}.Release|Any CPU.ActiveCfg = Release
+		{D1F8ECDC-4C37-4532-9FFD-DB6E625DE06C}.Release|x64.ActiveCfg = Release
+		{D1F8ECDC-4C37-4532-9FFD-DB6E625DE06C}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
